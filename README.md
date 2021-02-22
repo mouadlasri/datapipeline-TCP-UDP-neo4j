@@ -11,4 +11,5 @@ without having to write Cypher SQL manually. Instead, I will only use Python cod
 SQL operations
 
 The link to the medium article: https://lasri-mouad.medium.com/building-a-tcp-and-udp-traces-data-pipeline-and-visualizing-the-senders-and-receivers-using-neo4j-fb0fdcd7aaaa
+
 The video demonstration link: https://youtu.be/3c4H-Dagm3s
